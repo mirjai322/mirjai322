@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About Me
 - 🖥 Junior @ American High 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 AP Computer Science Principles
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆What I'm upto
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Working on Create Performance Task Project for my AP CSP test 
