@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 AP Computer Science Principles
 
 ## ⬆What I'm upto
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
 - Working on Create Performance Task Project for my AP CSP test 
 - Working on a research project using simulation to understand the difference between centralized and decentralized financial systems. 
-```
 
 ## 🔔 My Projects
 <!--START_SECTION:activity-->
