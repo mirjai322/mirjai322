@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Collaborating with CharaChorder on IQ-EQ open source projects!
-- Working on AWS DynamoDB Transactions!
+- Working on Create Performance Task Project for my AP CSP test 
+- Working on a research project using simulation to understand the difference between centralized and decentralized financial systems. 
 ```
 
 ## 🔔 My Projects
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/iq-eq-us/voicebox/issues/4) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-2. 🎉 Merged PR [#7](https://github.com/iq-eq-us/voicebox/pull/7) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-3. 💪 Opened PR [#7](https://github.com/iq-eq-us/voicebox/pull/7) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-4. 🎉 Merged PR [#6](https://github.com/iq-eq-us/voicebox/pull/6) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-5. ❗️ Closed issue [#3](https://github.com/iq-eq-us/voicebox/issues/3) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+1. ❗️My Portfolio https://personalwebsite.em3jay.repl.co/portfolio.html
+2. 🎉Python based projects https://github.com/mirjai322/econsystemsimulation 
+3. 💪PHP/Java Script based project   https://github.com/mirjai322/studyhub
+
 <!--END_SECTION:activity-->
