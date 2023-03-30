@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - 🖥 Junior @ American High 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 AP Computer Science Principles
 
-## ⬆What I'm upto
-- Working on Create Performance Task Project for my AP CSP test 
-- Working on a research project using simulation to understand the difference between centralized and decentralized financial systems. 
+## ⬆What I'm up to
+- Working on Performance Task Project for my AP CSP Exam
+- Working on a research project developing simulations to compare centralized and decentralized financial systems. 
 
 ## 🔔 My Projects
 <!--START_SECTION:activity-->
 1. ❗️My Portfolio https://personalwebsite.em3jay.repl.co/portfolio.html
 2. 🎉Python based projects https://github.com/mirjai322/econsystemsimulation 
-3. 💪PHP/Java Script based project   https://github.com/mirjai322/studyhub
+3. 💪SQL/PHP/JavaScript based project   https://github.com/mirjai322/studyhub
 
 <!--END_SECTION:activity-->
