@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :book: About Me
-- 🖥 Junior @ American High 
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 AP Computer Science Principles
+- 📕 HS Junior based in California 
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 AP Computer Science Principles, intended double major in CS/DS and minor in Econ
+- 🖥 Experience in full stack web development (JavaScript, HTML, CSS, SQL, PHP), Python (including Pandas, Matplotlib and Seaborn, NumPy, Tkinter, and Pygame), C
+- 🌳 Life Scout (Scouts BSA)
+- 💪 Human rights advocate in Nigeria
+- 🗣 Debater on the national circuit (PF)
+- ♀︎ Feminist
+- ⛓ Web3 enthusiast
 
-## ⬆What I'm up to
+## ⬆ What I'm up to
 - Working on Performance Task Project for my AP CSP Exam
 - Working on a research project developing simulations to compare centralized and decentralized financial systems. 
 
