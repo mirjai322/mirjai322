@@ -15,19 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :book: About Me
-- 📕 Freshman at UIUC, from the Bay Area 
-- 🎓 Majoring in Computer Science, potentially minoring in Business
-- 🖥 Experience in full stack web development (JavaScript, HTML, CSS, SQL, PHP), Python (including Pandas, Matplotlib and Seaborn, NumPy, Tkinter, and Pygame)
-- 🌳 Eagle Scout
-- 💪 Human rights advocate
-- 🗣 Previously a debater on the national circuit (PF)
-- ♀︎ Feminist
-- ⛓ Web3 enthusiast 
+- 📕 Sophomore at UIUC, from the Bay Area 
+- 🎓 Majoring in Computer Science, minoring in Business
+- 🖥 Experience in Python, C++, full stack web development
 
-## 🔔 My Projects
+## 🔔 Work + Some Projects!
 <!--START_SECTION:activity-->
-1. ❗️My Portfolio https://personalwebsite.em3jay.repl.co/portfolio.html
-2. 🎉Python based projects https://github.com/mirjai322/econsystemsimulation 
-3. 💪SQL/PHP/JavaScript based project   https://github.com/mirjai322/studyhub
+1. ❗️Currently working as a SWE intern @ Venu AI (YC W21)
+2. 🎉Research: https://github.com/mirjai322/econsystemsimulation 
+3. 💪SQL/PHP/JavaScript based project:   https://github.com/mirjai322/studyhub
 
 <!--END_SECTION:activity-->
