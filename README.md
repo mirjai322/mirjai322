@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :book: About Me
-- 📕 Sophomore at UIUC, from the Bay Area 
-- 🎓 Majoring in Computer Science, minoring in Business
+- 📕 UIUC Computer Science Student
 - 🖥 Experience in Python, C++, full stack web development
 
 ## 🔔 Work + Some Projects!
 <!--START_SECTION:activity-->
-1. ❗️Currently working as a SWE intern @ Venu AI (YC W21)
-2. 🎉Research: https://github.com/mirjai322/econsystemsimulation 
-3. 💪SQL/PHP/JavaScript based project:   https://github.com/mirjai322/studyhub
+1. ❗️Currently working as a Software Engineering Intern at BlackRock
+2. 🎉Sample Research: https://github.com/mirjai322/econsystemsimulation 
+3. 💪Sample SQL/PHP/JavaScript based project:   https://github.com/mirjai322/studyhub
 
 <!--END_SECTION:activity-->
